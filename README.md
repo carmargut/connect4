@@ -1,5 +1,5 @@
 # Connect 4
-Implementation in java of the famous game "connect 4" and some variants
+Java implementation of the popular game "4 in a row" and some variants
 
 
 To play it, simply:
